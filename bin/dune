@@ -1,0 +1,4 @@
+(executable
+ (public_name jubalisp)
+ (name main)
+ (libraries jubalisp))
